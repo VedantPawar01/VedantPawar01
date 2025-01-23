@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="www.linkedin.com/in/vedant-pawar-05418324a" target="_blank"> Vedant Pawar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vedant-pawar-05418324a/" target="_blank"> Vedant Pawar </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Development+FrontEnd+React+%3A)" /> </h3>
 
 - <h3 align="center"> <a href="" target="_blank"> Vedant Pawar </a></h3>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/vedant-pawar-05418324a" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-pawar-05418324a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pawarvedant950@gmail.com" target="_blank">
